@@ -9,8 +9,12 @@ You can either build the solution yourself or download the executable from the r
 How to run?
 ===========
 Open cmd on the directory where your .app/.ipa resides and enter " apptoipa <file> [-d] ".
+Use " -d " to delete the .app folder after generating the .ipa file.
 
-Use " -d " to delete the .app folder after generating a .ipa file.
+Issues
+======
+Any issues?
+Submit it here: https://github.com/AlexSimpler/apptoipa-converter/issues .
 
 Credits
 =======
