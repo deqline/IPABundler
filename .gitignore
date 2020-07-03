@@ -1,0 +1,11 @@
+# User-specific files
+*.rsuser
+*.suo
+*.userosscache
+*.sln.docstates
+*.vcxproj
+*.filters
+*.user
+bin/
+x64/
+x86/
