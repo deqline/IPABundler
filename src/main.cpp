@@ -28,7 +28,7 @@ int main(int argc, char* argv[])
 
 	fs::path app = argv[1];
 	fs::path oldApp = app;
-	string outputName = (app.stem().string()).append(".zip");
+	string outputName = "Payload.zip";
 	fs::path current_path = std::filesystem::current_path();
 	string root_path = current_path.string();
 	root_path += "\\";
@@ -62,14 +62,10 @@ int main(int argc, char* argv[])
 		for (auto& p : fs::recursive_directory_iterator(app))
 		{
 			string path = p.path().string();
-			auto index = path.find("\\");
-			if (index <= path.length())
-				path.erase(0, index + 1);
 			ZipAdd(hz, path.c_str(), p.path().string().c_str());
 		}
 		CloseZip(hz);
-		app = outputName;
-		app.replace_extension(".ipa");
+		app = oldApp.stem().string().append(".ipa");
 		cmd.append("move /y ").append(tempPath.string()).append(" ").append(tempPath.replace_extension(".ipa").string()).append(" > nul && move ")
 			.append(tempPath.string()).append(" ").append(root_path.append(app.string())).append(" > nul");
 		system(cmd.c_str());
