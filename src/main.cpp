@@ -62,7 +62,8 @@ int main(int argc, char* argv[])
 		for (auto& p : fs::recursive_directory_iterator(app))
 		{
 			string path = p.path().string();
-			ZipAdd(hz, path.c_str(), p.path().string().c_str());
+
+			ZipAdd(hz, string("Payload\\" + path).c_str(), p.path().string().c_str());
 		}
 		CloseZip(hz);
 		app = oldApp.stem().string().append(".ipa");
