@@ -8,9 +8,9 @@ You can either build the solution yourself or download the executable from the r
 
 How to run?
 ===========
-Open cmd on the directory where your `.app`/`.ipa` resides and enter `apptoipa <file> [-d]`.
+Open cmd on the directory where your .app/.ipa resides and enter " apptoipa <file> [-d] ".
 
-Use `-d` to delete the `.app` folder after generating a `.ipa`.
+Use " -d " to delete the .app folder after generating a .ipa file.
 
 Credits
 =======
