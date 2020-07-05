@@ -1,6 +1,9 @@
 # apptoipa-converter
-
 Convert your .app or your .ipa files in one click on windows using this tool.
+
+This tool supports conversion from:
+**.app** ⇒ **.ipa**
+**.ipa** ⇒ **.app**
 
 ![](https://i.imgur.com/Lka4tKR.png)
 
