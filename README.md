@@ -2,7 +2,7 @@
 
 Convert your .app or your .ipa files in one click on windows using this tool.
 
-
+![](https://i.imgur.com/Lka4tKR.png)
 
 ## Installation
 
