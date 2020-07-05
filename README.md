@@ -1,5 +1,5 @@
 # IPABundler
-Convert your .app or your .ipa files in one click on windows using this tool.
+Convert your .app or your .ipa files in one click on _Windows_ using this tool.
 
 This tool supports conversion from:<br>
 **.app** ⇒ **.ipa**<br>
@@ -23,7 +23,7 @@ Use `-d` to delete the .app folder after generating the .ipa file.
 ## Issues
 
 Any issues?<br>
-Submit them here: https://github.com/AlexSimpler/apptoipa-converter/issues .
+Submit them [here](https://github.com/AlexSimpler/apptoipa-converter/issues) .
 
 ## Credits
 
