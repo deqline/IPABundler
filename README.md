@@ -8,8 +8,8 @@ This tool supports conversion from:<br>
 ![](https://i.imgur.com/Lka4tKR.png)
 
 ## Installation
-
-You can either build the solution yourself or download the latest executable from the releases page.
+- Download it from [here](https://github.com/AlexSimpler/IPABundler/releases/latest)
+- Build the solution yourself!
 
 ## How to run?
 
