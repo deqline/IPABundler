@@ -13,15 +13,20 @@ You can either build the solution yourself or download the latest executable fro
 
 ## How to run?
 
-Open cmd on the directory where your .app/.ipa resides and enter " apptoipa <file> [-d] ".
-Use " -d " to delete the .app folder after generating the .ipa file.
+Open cmd on the directory where your .app/.ipa resides and enter 
+```bash
+apptoipa <file> [-d]
+```
+
+Use `-d` to delete the .app folder after generating the .ipa file.
 
 ## Issues
 
-Any issues?
-Submit it here: https://github.com/AlexSimpler/apptoipa-converter/issues .
+Any issues?<br>
+Submit them here: https://github.com/AlexSimpler/apptoipa-converter/issues .
 
 ## Credits
 
 Made by AlexSimpler in 2020 using Zip Utils by ljw1004.
+
 All rights reserved.
