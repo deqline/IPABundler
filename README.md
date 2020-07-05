@@ -8,9 +8,9 @@ This tool supports conversion from:<br>
 ![](https://i.imgur.com/Lka4tKR.png)
 
 ## Installation
-❎ Releases might not always be up to date with the code, please check the status below.
+❎ Releases might not always be up to date with the code, for this reason only download from releases if the status is up to date.
   
-  **STATUS:** UP-TO-DATE.
+  **STATUS:** UP TO DATE.
 
 - Download it from [here](https://github.com/AlexSimpler/IPABundler/releases/latest) .
 - Build the solution yourself!
