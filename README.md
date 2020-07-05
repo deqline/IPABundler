@@ -1,4 +1,4 @@
-# apptoipa-converter
+# IPABundler
 Convert your .app or your .ipa files in one click on windows using this tool.
 
 This tool supports conversion from:<br>
