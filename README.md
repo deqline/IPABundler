@@ -1,7 +1,7 @@
 # IPABundler
 Convert your .app or your .ipa files in one click on _Windows_ using this tool.
 
-NOTE: this program does not use OS functions to move and copy files so it can have some compatibility problems.
+**NOTE**: this program does not use OS functions to move and copy files so it can have some compatibility problems.
 
 This tool supports conversion from:<br>
 **.app** ⇒ **.ipa**<br>
