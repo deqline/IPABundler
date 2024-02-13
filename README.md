@@ -18,12 +18,5 @@ apptoipa <file> [-d]
 
 Use `-d` to delete the .app folder after generating the .ipa file.
 
-## Issues
-
-Any issues?<br>
-Submit them [here](https://github.com/AlexSimpler/apptoipa-converter/issues) .
-
 ## Credits
-
-Made by AlexSimpler in 2020 using Zip Utils by ljw1004.
-All rights reserved.
+Zip Utils by ljw1004.
